@@ -1,0 +1,19 @@
+{
+  "Port":"8080",
+  "Mysql": {
+    "UserName": "",
+    "Password": "",
+    "Ip": "",
+    "Port": "",
+    "DbName": ""
+  },
+  "Redis": {
+    "Addr": "",
+    "Password": ""
+  },
+  "RabbitMQ": {
+    "UserName": "",
+    "Password": "",
+    "Addr": ""
+  }
+}
